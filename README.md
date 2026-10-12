@@ -32,3 +32,11 @@ I plan to share my learning exercises, experiments, and practical engineering pr
 ## Long-Term Goal
 
 My goal is to combine electrical engineering, electronics, control systems, robotics, and artificial intelligence to develop practical intelligent machines and automation systems.
+
+## About AUTENQRO
+
+AUTENQRO is an engineering brand concept in development, focused on exploring the intersection of electrical engineering, industrial automation, robotics, electronics, and artificial intelligence.
+
+This project is part of the ongoing journey toward building practical engineering solutions under the AUTENQRO vision.
+
+**Current status:** Independent development and prototyping.
